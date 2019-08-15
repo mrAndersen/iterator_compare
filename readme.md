@@ -1,6 +1,6 @@
-###Proof of slow iterator-class pattern in php
+### Proof of slow iterator-class pattern in php
 
-###Results
+### Results
 ```
 Iterator => 17258 ms
 50000000
